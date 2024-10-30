@@ -1,0 +1,1 @@
+This project involves the development of an AI-powered desktop virtual assistant using Python and Tkinter. The assistant is designed to facilitate user interaction through both voice and text commands, providing a seamless and intuitive experience.
